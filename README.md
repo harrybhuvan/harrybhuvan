@@ -1,7 +1,7 @@
 - 👋 Hi, I’m BHUVANARAJA
-- 👀 I’m interested in ...Web developer
-- 🌱 I’m currently pursuing BE CSE.
-- 💞️ I’m looking to collaborate on ...Frontend development
+- 👀 I’m currently working in Infosys
+- 🌱 I’m System Engineer
+- 💞️ I’m looking to collaborate on ...Full stack development
 - 📫 How to reach me ...
 
 Email : harrybhuvan28@gmail.com
